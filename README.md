@@ -8,12 +8,13 @@ Eu sou uma pessoa que sempre procura coisas novas, eu to sempre querendo aprende
 
 | Linguagem             | Experiencia | 
 | :---------------- | :------ | 
-| Python | Intermediario |
+| Python | Avançado |
 | Java | Intermediario |
-| JavaScript | Intermediario |
-| SQL | Básico/Intermediário |
-| TypeScript | Básico/Intermediário |
-| React | Básico/Intermediário |
+| JavaScript | Avançado |
+| SQL | Intermediário |
+| TypeScript | Intermediário |
+| React | Intermediário |
+| Next | Intermediário |
 ***
 # Experiências Acadêmicas
 ## Projeto 1
