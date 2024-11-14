@@ -27,5 +27,4 @@ Esse projeto consistia em pensar em alguma maneira de deixar os oceanos mais lim
 A Secure Car também é um projeto da minha faculdade, só que dessa vez esse projeto é para a Porto Seguro e foi realizado com mais duas pessoas, <a href = "https://github.com/gustavodscruz">Gustavo</a> e <a href = "https://github.com/enricodelguerra">Enrico</a> .
 
 Esse projeto consiste na criação de um modelo de aprendizagem de máquina, capaz de identificar problemas que o carro da pessoa utilizando a nossa aplicação, esteja apresentando, com o problema identificado é gerado um provavel diagnóstico e quanto isso custaria.
-
-### O projeto ainda está em andamento.
+Link da solução : <a href="https://github.com/securecar">SecureCar</a>
